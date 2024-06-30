@@ -1,6 +1,6 @@
 {
     "name": "pixals/skinlib",
-    "type": "vcs",
+    "type": "library",
     "minimum-stability": "stable",
     "require": {
         "pocketmine/pocketmine-mp": "^5.0.0"
