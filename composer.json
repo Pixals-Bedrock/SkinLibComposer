@@ -1,0 +1,6 @@
+{
+    "name": "pixals/skinlib",
+    "type": "vcs",
+    "minimum-stability": "stable",
+    "require": {}
+}
