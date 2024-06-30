@@ -1,5 +1,0 @@
-name: SkinLib
-antigen: skymin\skin
-api: [3.24.0, 4.0.0]
-version: 3.0.1
-author: skymin
